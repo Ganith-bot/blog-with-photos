@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: darkgrey;
+    font-size: 20px;
+}
+div {
+    margin-top: 15px;
+    color: cadetblue;
+    background-color: dimgrey;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+#div2 {
+    background-color:deepskyblue;
+    color: crimson;
+}
